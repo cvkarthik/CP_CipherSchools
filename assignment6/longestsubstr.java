@@ -1,4 +1,3 @@
-import java.util.*;
 class LongestSubstr{//longest substr without repeating chars
 public static Boolean areDistinct(String str,int i, int j)
 {
