@@ -1,4 +1,4 @@
-class Majority{
+class Majority{ // Moore's Voting Algorithm
     static int getCandidate(int[] arr){
         int candidate=arr[0],count=1;
         for(int i=1;i<arr.length;i++){
